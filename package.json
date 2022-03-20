@@ -1,0 +1,21 @@
+{
+    "name": "melodark-theme",
+    "displayName": "Melodark Theme",
+    "description": "The composition of melodic and the dark parts in a single color theme to transform your code in a mix of feelings and energy.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Melodark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Melodark Theme-color-theme.json"
+            }
+        ]
+    }
+}
