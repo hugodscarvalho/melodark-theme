@@ -6,19 +6,9 @@ Font used: [Cascadia Code](https://github.com/microsoft/cascadia-code)
 
 ### Images:
 
-Typescript
-![Typescript screenshot](./images/typescript.png)
-
-Go
-![Go screenshot](./images/go.png)
-
 Python
-![Python screenshot](./images/python.png)
-
-Ruby
-![Ruby screenshot](./images/ruby.png)
+![Python screenshot](./images/python.PNG)
 
 <br>
 
-_Code snippets in the examples are directly taken from [Github Copilot website](https://copilot.github.com/) and [Community Material Theme Ocean High-Contrast](https://github.com/material-theme/).
-_.
+Code snippets in the examples are directly taken from [Github Copilot website](https://copilot.github.com/) and [Community Material Theme Ocean High-Contrast](https://github.com/material-theme/).
