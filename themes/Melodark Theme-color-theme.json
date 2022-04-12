@@ -66,6 +66,16 @@
 		}
 	  },
 	  {
+		"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
+		"scope": [
+		  "variable.parameter.function.language.special",
+		  "variable.parameter"
+		],
+		"settings": {
+		  "foreground": "#FF5370"
+		}
+	  },	
+	  {
 		"name": "Punctuation template expression",
 		"scope": [
 		  "punctuation.definition.template-expression",
